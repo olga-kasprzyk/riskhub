@@ -13,7 +13,7 @@ Tests to be found at
 - run using "phpunit"
 - you'll notice a @test comment above each test, this allows my tests custom names
 
-##Additional Notes:
+## Additional Notes:
 
 app\Traits folder is not my code, but something I use to generate uuids instead of the default incremented integer
 You will be able to see these uuids in the tickets table
